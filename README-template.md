@@ -40,7 +40,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL:(https://www.frontendmentor.io/solutions/results-summary-component-0QfPVNvNr2)
+- Solution URL:(https://www.frontendmentor.io/solutions/social-proof-section-master-zQJl0Io9Q0)
 - Live Site URL: [https://proof-section-master-component.netlify.app/]
 
 ## My process
